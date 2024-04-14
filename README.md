@@ -1,7 +1,7 @@
 ### Hi there 👋 , I am Abdelsalam
 
 # 💫 About Me:
-🔭 I’m currently working on advancing my career and building the next big thing<br>🌱 I’m currently learning Backend engineering & DevOps<br>💬 Ask me about Java Backend engineering<br>⚡ Fun fact I started my career as a product manager / designer and now I'm a backend engineer who loves to hustle and innovate.
+🔭 I’m currently working on skills in building scalable backend systems using Java and building the next big thing<br>🌱 I’m currently learning Backend engineering & DevOps<br>💬 Ask me about Java Backend engineering<br>⚡ Fun fact I started my career as a product manager / designer and now I'm a backend engineer who loves to hustle and innovate.
 
 
 ## 🌐 Socials:
